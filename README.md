@@ -1,4 +1,4 @@
-<a href="https://gitlab.sas.com/Emily.Scheviak-Livesay/learning-sas-by-example-2ed/blob/master/Example_Cover.jpg"><img src='Example_Cover.jpg' align= 'right'/></a>
+<a href="Example_Cover.jpg"><img src='Example_Cover.jpg' align= 'right'/></a>
 # Learning SAS by Example: A Programmer's Guide, Second Edition #
  
 Ron Cody
