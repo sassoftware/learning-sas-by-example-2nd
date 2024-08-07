@@ -34,8 +34,6 @@ You can test your knowledge and hone your skills by solving the problems at the 
 
 ## Details
 
-
-
 Epub ISBN: 978-1-63526-656-6<br> 
 Kindle ISBN: 978-1-63526-657-3 <br>
 PDF ISBN: 978-1-63526-658-0 <br>
@@ -43,7 +41,6 @@ Paperback ISBN:978-1-63526-659-7<br>
 Hardback ISBN: 978-1-63526-893-5<p>
 <a href="https://www.sas.com/storefront/aux/en/splearnexample/71442_excerpt.pdf">Table of Contents and Book Excerpt</a><p>
 <a href="https://support.sas.com/en/books/authors/ron-cody.html">About the Author</a>
+
 ## License
-
-
 This project is licensed under the [Apache 2.0 License](./LICENSE).
